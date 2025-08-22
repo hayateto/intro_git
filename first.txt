@@ -1,2 +1,6 @@
 Gitの練習を始めます
 終わります
+
+/git add
+
+/git commit
