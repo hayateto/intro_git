@@ -8,3 +8,5 @@ Gitの練習を始めます
 /git rm
 
 /git status
+
+/git diff
